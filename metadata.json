@@ -1,0 +1,11 @@
+{
+  "name": "MediLink",
+  "description": "Intelligent Online Doctor Consultation & Appointment System with live queue, WebRTC consultation room, adaptive connectivity, digital prescriptions, and patient health timeline.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
